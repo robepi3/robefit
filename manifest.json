@@ -1,8 +1,8 @@
 {
   "name": "FitCoach",
   "short_name": "FitCoach",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "https://robepi3.github.io/robefit/",
+  "scope": "https://robepi3.github.io/robefit/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
