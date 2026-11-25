@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="92" fill="#000"/>
+<g fill="none" stroke="#c6ff00" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+<path d="M72 158v72M112 136v116M400 136v116M440 158v72M112 194h288"/>
+<path d="M174 194h164" stroke-width="30"/>
+</g>
+<path d="M256 116l-31 70 31-13 31 13z" fill="#c6ff00"/>
+<text x="256" y="326" text-anchor="middle" font-family="Arial,sans-serif" font-size="78" font-weight="900" font-style="italic" fill="#fff">robe<tspan fill="#c6ff00">fit</tspan></text>
+<text x="256" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" font-style="italic" fill="#c6ff00">FIT COACH</text>
+</svg>
